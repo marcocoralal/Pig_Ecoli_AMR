@@ -1,0 +1,1 @@
+De-identified analysis data: 344 records, 13 fields (`week_cluster` and 12 `ns_` variables). No names, addresses, canton, sample IDs, or original dates. `week_cluster` is recoded and preserves within-week membership for GEE. Rare phenotypic combinations remain; sharing requires authorization. The meaning of binary values must be confirmed with laboratory metadata (I+R=1, S=0).
