@@ -1,0 +1,17 @@
+# Original laboratory and field data
+data_private/
+raw_data/
+*.xlsx
+*.xls
+
+# R session files
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# Temporary files
+*.tmp
+~$*
+.DS_Store
+Thumbs.db
